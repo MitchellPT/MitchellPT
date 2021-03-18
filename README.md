@@ -5,7 +5,6 @@
 - 📫 How to reach me:\
 Discord: Mitch#9487,\
 [Discord Server](https://discord.gg/u4u3XYw),\
-[Steam](https://steamcommunity.com/id/mitchellpt/)\
-<!-- 💞️ I’m looking to collaborate on ... -->\
-
+[Steam](https://steamcommunity.com/id/mitchellpt/)
+<!-- 💞️ I’m looking to collaborate on ... -->
 (Most repos are now private)
