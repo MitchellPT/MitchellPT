@@ -7,4 +7,4 @@ Discord: Mitch#9487,\
 [Discord Server](https://discord.gg/u4u3XYw),\
 [Steam](https://steamcommunity.com/id/mitchellpt/)
 <!-- 💞️ I’m looking to collaborate on ... -->
-(Most repos are now private)
+(Most repositories are now private)
