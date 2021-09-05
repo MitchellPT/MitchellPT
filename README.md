@@ -4,7 +4,7 @@
 - 😉 I'm Intrested in HTML, CSS, PYTHON, GLUA, PHP, NODEJS!
 - 📫 How to reach me:\
 Discord: Mitch#9487,\
-[Discord Server](https://discord.gg/u4u3XYw),\
+[Discord Server](https://discord.gg/jUfTTvB3nP),\
 [Steam](https://steamcommunity.com/id/mitchellpt/)
 <!-- 💞️ I’m looking to collaborate on ... -->
 (Most repositories are now private)
