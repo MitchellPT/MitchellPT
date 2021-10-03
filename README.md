@@ -8,3 +8,6 @@ Discord: Mitch#9487,\
 [Steam](https://steamcommunity.com/id/mitchellpt/)
 <!-- 💞️ I’m looking to collaborate on ... -->
 (Most repositories are now private)
+
+![](https://github.com/MitchellPT/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/MitchellPT/github-stats-transparent/blob/output/generated/languages.svg)
