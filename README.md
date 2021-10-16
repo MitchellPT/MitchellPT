@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MitchellPT
 - 👀 I’m interested in ~Coding and Music!
 - 🌱 I’m currently learning ~Python!
-- 😉 I'm Intrested in HTML, CSS, PYTHON, GLUA, PHP, NODEJS!
+- 😉 I'm Intrested in C#, HTML, CSS, PYTHON, GLUA, PHP, NODEJS!
 - 📫 How to reach me:\
 Discord: Mitch#9487,\
 [Discord Server](https://discord.gg/jUfTTvB3nP),\
